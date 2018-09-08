@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Tapiraat/sphp/master/assets/img/logo.png)
+![Logo](https://raw.githubusercontent.com/Tapiraat/sphp/master/assets/img/logo.pngs=100)
 
 (SPHP is NOT built for non-developers, but front-end developers instead.)
 
@@ -39,6 +39,10 @@ Your styling now get's loaded onto all your pages automatically. You can add cla
 
 ## Edit maintenance page
 
+Your maintenance page (which you can toggle from your config.php) is located in framework/includes/maintenance.php, you can edit it from there.
+
 ## Your config.php file
 
 ## Advanced
+
+Now getting into the more advanced SPHP features;
