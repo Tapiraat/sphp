@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Tapiraat/sphp/master/assets/img/logo.pngs=100)
+![Logo](https://raw.githubusercontent.com/Tapiraat/sphp/master/assets/img/logo.png?v=4&s=100)
 
 (SPHP is NOT built for non-developers, but front-end developers instead.)
 
