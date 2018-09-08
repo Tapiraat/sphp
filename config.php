@@ -7,10 +7,10 @@ if(!defined('SPHPrun')) {
 // General site settings
 $siteName = "Website"; // This is the name we'll use for your site.
 $siteUrl = "https://mysite.com"; // The url to where you have installed SPHP (ex; http://mysite.com/sphp or http://mysite.com) [DO NOT FORGET HTTP:// !]
-$siteDescription = ""; //
-$siteAuthor = ""; //
-$siteKeywords = "Anything, can, go, here"; //
-$language = "EN"; //
+$siteDescription = ""; // The description we use in your meta tags.
+$siteAuthor = ""; // Your name goes here.
+$siteKeywords = "Anything, can, go, here"; // Good keywords that describe your site we use in your meta tags.
+$language = "EN"; // Language used in your meta tags and admin area.
 $logo = "assets/img/logo.png"; // Must directly link to the file (either locally or via a direct url!)
 
 // Advanced

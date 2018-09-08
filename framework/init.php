@@ -20,7 +20,7 @@ function SPHPBoot()
     } else { if ($compuri == "/") {
         include "$pageFolder/$homePage.$fileExtension";
       } elseif (!file_exists("$pageFolder/$compuri.$fileExtension")) {
-        include "framework/includes/$errorDocument.$fileExtension";
+        include "$pageFolder/$errorDocument.$fileExtension";
       } else {
         include "$pageFolder/$compuri.$fileExtension";
       } include 'framework/includes/footer.inc.php';
